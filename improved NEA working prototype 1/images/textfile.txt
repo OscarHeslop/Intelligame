@@ -1,0 +1,4 @@
+savename : oscar
+money : 1
+magazinesize : 3
+bulletdamage : 3
